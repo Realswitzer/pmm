@@ -1,0 +1,7 @@
+*.tmp
+*.temp
+.DS_STORE
+tmp*/
+temp*/
+tmp*
+temp*
